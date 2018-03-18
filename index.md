@@ -1,22 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to To my personal site!
 
-You can use the [editor on GitHub](https://github.com/BenjaminBLi/BenjaminBLi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Benjamin Li and I'm currently a 12th grade student at [Bloor Collegiate Institute](http://schoolweb.tdsb.on.ca/bloorci/). I enjoy gaming, playing guitar, and coding in my spare time.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
