@@ -1,27 +1,17 @@
-## Welcome to To my personal site!
+## Introduction
 
 Hello,
 
 My name is Benjamin Li and I'm currently a 12th grade student at [Bloor Collegiate Institute](http://schoolweb.tdsb.on.ca/bloorci/). I enjoy gaming, playing guitar, and coding in my spare time.
 
-### Markdown
+### Resume
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Included here is [my resume](https://github.com/BenjaminBLi/BenjaminBLi.github.io/blob/master/Resume.pdf).
 
-1. Numbered
-2. List
+### Guitar
 
-**Bold** and _Italic_ and `Code` text
+I'm a classically-trained guitarist, and have been playing since the 3rd grade. I've earned an [RCM Provincial Gold Medal](https://www.mississaugaschoolofmusic.ca/awards) for the level 2 examination, and placed as an honourable mention in the OMFA Grade 10 Classical guitar competition. 
 
-[Link](url) and ![Image](src)
-```
+### Coding
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BenjaminBLi/BenjaminBLi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The large majority of my programming experience has been participating in competitive programming, and my results can be seen in the [competitive programming repo](https://github.com/BenjaminBLi/ccc-with-c) I regularly update. I've also posted an [email server backend](https://github.com/BenjaminBLi/IcsEmailServer) my 12th grade ICS class has been maintaining, and the results of a TDSB-organized software development competition, which [I created in 4 hours](https://github.com/BenjaminBLi/ShsmTdsb)
