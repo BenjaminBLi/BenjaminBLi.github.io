@@ -6,7 +6,7 @@ My name is Benjamin Li and I'm currently a 12th grade student at [Bloor Collegia
 
 ### Resume
 
-Included here is [my resume](https://github.com/BenjaminBLi/BenjaminBLi.github.io/blob/master/ResumeFinal.pdf).
+Included here is [my resume](https://github.com/BenjaminBLi/BenjaminBLi.github.io/blob/master/Resume.pdf).
 
 ### Guitar
 
