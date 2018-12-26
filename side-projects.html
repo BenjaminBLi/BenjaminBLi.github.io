@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en_CA" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <title>Side Projects</title>
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  </head>
+
+  <body class="blue-grey darken-3">
+    <nav class="deep-purple darken-2" role="navigation">
+      <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Logo</a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="#">Navbar Link</a></li>
+        </ul>
+
+        <ul id="nav-mobile" class="sidenav">
+          <li><a href="#">Navbar Link</a></li>
+        </ul>
+        <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+      </div>
+    </nav>
+
+    <!-- use masonry to sort my cards -->
+    <div class="card blue-grey darken-3">
+      <div class="card-content white-text">
+    			<span class="card-title pink-text" style="font-weight: bold">My Highlights</span>
+        		<p> More projects can be found on my
+              <a href="https://github.com/BenjaminBLi" class="white-text" style="font-weight: bold">GitHub.</a></p>
+          <div class="row projects"
+               data-masonry='{ "itemSelector": ".col",
+                               "columnWidth": 200 }'
+               style="margin-top: 20px">
+
+               <div class="col s12 m6 l4 xl4">
+  				  		<div class="card-small">
+  						  	<div class="card">
+  						    	<div class="card-image waves-effect waves-block waves-teal">
+  						      		<img class="activator" src="what-a-racket.png">
+  						    	</div>
+  						    	<div class="card-content">
+  						      		<span class="card-title activator grey-text text-darken-4">
+                          What A Racket<i class="material-icons right">info_outline</i>
+                        </span>
+  						      		<p><a href="https://github.com/BenjaminBLi/what-a-racket" class="orange-text">Github</a></p>
+  						    	</div>
+  						    	<div class="card-reveal">
+  						      		<span class="card-title grey-text text-darken-4">What a Racket<i class="material-icons right">close</i></span>
+  						      		<p class="grey-text">
+                          What a Racket is a test case generator designed
+                          for students taking the UWaterloo CS135 class.
+                          It takes in a pre-defined self-referencing structures
+                          and returns randomly generated values that properly
+                          fit the test case requirements given by the cs class.
+                        </p>
+  						    	</div>
+  						  	</div>
+					  	</div>
+            </div>
+
+            <div class="col s12 m6 l4 xl4">
+             <div class="card-small">
+               <div class="card">
+                 <div class="card-image waves-effect waves-block waves-teal">
+                     <img class="activator" src="wasteful.png">
+                 </div>
+                 <div class="card-content">
+                     <span class="card-title activator grey-text text-darken-4">
+                       Wasteful<i class="material-icons right">info_outline</i>
+                     </span>
+                     <p><a href="https://github.com/BenjaminBLi/wastefull" class="orange-text">Github</a></p>
+                 </div>
+                 <div class="card-reveal">
+                     <span class="card-title grey-text text-darken-4">Wasteful<i class="material-icons right">close</i></span>
+                     <p class="grey-text">
+                       Wasteful is an android app developed towards a more
+                       eco-friendly world. It uses the camera to detect items
+                       and categorize them into their respective waste categories
+                       based on a previously compiled database of waste regulations.
+                     </p>
+                 </div>
+               </div>
+           </div>
+         </div>
+
+         <div class="col s12 m6 l4 xl4">
+          <div class="card-small">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-teal">
+                  <img class="activator" src="VisuAl.png">
+              </div>
+              <div class="card-content">
+                  <span class="card-title activator grey-text text-darken-4">
+                    VisuAl <i class="material-icons right">info_outline</i>
+                  </span>
+                  <p><a href="https://github.com/BenjaminBLi/VisuAl" class="orange-text">Github</a></p>
+              </div>
+              <div class="card-reveal">
+                  <span class="card-title grey-text text-darken-4">VisuAl<i class="material-icons right">close</i></span>
+                  <p class="grey-text">
+                    VisuAl is a music generator that generates unique music based
+                    on given pictures. It uses Wolfram Mathematica to generate unique edge
+                    maps which are then mapped to pre-determined musical patterns
+                    which then sends the results to an audio generator, thus producing
+                    soothing, relaxing music that's unique to the image.
+                  </p>
+              </div>
+            </div>
+           </div>
+         </div>
+
+         <div class="col s12 m6 l4 xl4">
+          <div class="card-small">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-teal">
+                  <img class="activator" src="ccc-with-c.png">
+              </div>
+              <div class="card-content">
+                  <span class="card-title activator grey-text text-darken-4">
+                    ccc-with-c <i class="material-icons right">info_outline</i>
+                  </span>
+                  <p><a href="https://github.com/BenjaminBLi/ccc-with-c" class="orange-text">Github</a></p>
+              </div>
+              <div class="card-reveal">
+                  <span class="card-title grey-text text-darken-4">ccc-with-c<i class="material-icons right">close</i></span>
+                  <p class="grey-text">
+                    ccc-with-c is my competitive programming repo, which I've been
+                    working on ever since the 11th grade. It contains 600+ solutions
+                    to problems across various online judges, ranging from UVa to DM::OJ.
+                    Over my years of comeptitive programming, I've learned much about
+                    data structures (segment trees, BITs, DSU, etc.), graph theory
+                    (Max Flow, Shortest Path, low-linking, Trees), and general
+                    programming speed and problem-solving skills.
+                  </p>
+              </div>
+            </div>
+           </div>
+         </div>
+
+         <div class="col s12 m6 l4 xl4">
+          <div class="card-small">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-teal">
+                  <img class="activator" src="monch.png">
+              </div>
+              <div class="card-content">
+                  <span class="card-title activator grey-text text-darken-4">
+                    Monch <i class="material-icons right">info_outline</i>
+                  </span>
+                  <p><a href="https://github.com/BenjaminBLi/ccc-with-c" class="orange-text">Github</a></p>
+              </div>
+              <div class="card-reveal">
+                  <span class="card-title grey-text text-darken-4">monch<i class="material-icons right">close</i></span>
+                  <p class="grey-text">
+                    Monch is a work in progress app targeted towards university students who have
+                    trouble cooking due to a lack of recipes and inexperience with
+                    cooking. The app helps you take inventory of what's in your
+                    fridge and recommends a given meal plan for the week or month
+                    using a basic scheduling algorithm to properly allocate the
+                    given stock in the best manner.
+                  </p>
+              </div>
+            </div>
+           </div>
+         </div>
+
+         <div class="col s12 m6 l4 xl4">
+          <div class="card-small">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-teal">
+                  <img class="activator" src="monch.png">
+              </div>
+              <div class="card-content">
+                  <span class="card-title activator grey-text text-darken-4">
+                    Monch <i class="material-icons right">info_outline</i>
+                  </span>
+                  <p><a href="https://github.com/BenjaminBLi/ccc-with-c" class="orange-text">Github</a></p>
+              </div>
+              <div class="card-reveal">
+                  <span class="card-title grey-text text-darken-4">monch<i class="material-icons right">close</i></span>
+                  <p class="grey-text">
+                    Monch is a work in progress app targeted towards university students who have
+                    trouble cooking due to a lack of recipes and inexperience with
+                    cooking. The app helps you take inventory of what's in your
+                    fridge and recommends a given meal plan for the week or month
+                    using a basic scheduling algorithm to properly allocate the
+                    given stock in the best manner.
+                  </p>
+              </div>
+            </div>
+           </div>
+         </div>
+
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="js/materialize.min.js"></script>
+  <script type="text/javascript" src="js/masonry.js"></script>
+</html>
